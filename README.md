@@ -1,5 +1,7 @@
 # CECS 326 Lab 2: Concurrent Processing, Shared Memory, and Semaphores
 
+Initial Notes: This file was reuploaded from the private repository of github classroom so original commits are not shown. Below is the original assignment description provided by the teacher. The code I developed are: game.c, barbarian.c, wizard.c, rogue.c, and game.mk.
+
 ## Assignment Description
 
 The goal of this assignment is to become familiar with concurrent processing in Unix/Linux using [shared memory](https://man7.org/linux/man-pages/man7/shm_overview.7.html) and become familiar with both man pages and signal processing.
