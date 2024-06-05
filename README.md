@@ -1,5 +1,7 @@
 # CECS 326 Lab 2: Concurrent Processing, Shared Memory, and Semaphores
 
+Date: May-2024
+
 ## Initial Notes
 
 This file was reuploaded from the private repository of github classroom so original commits are not shown. Below is the original assignment description provided by the teacher. The code I developed are: game.c, barbarian.c, wizard.c, rogue.c, and game.mk. This repository can only be run in a linux environment (WSL works).
