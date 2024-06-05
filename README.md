@@ -1,6 +1,6 @@
 # CECS 326 Lab 2: Concurrent Processing, Shared Memory, and Semaphores
 
-Date: May-2024
+## Date: May-2024
 
 ## Initial Notes
 
